@@ -53,4 +53,5 @@ SELECT district, state, literacy,
 FROM project..data1
 WHERE rnk <= 3;
 
-output:- This gives you the top 3 literate districts from each state.
+
+Output :- This gives you the top 3 literate districts from each state.
